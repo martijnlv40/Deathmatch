@@ -1,0 +1,11 @@
+{
+    "name": "Deathmatch",
+    "author": "martijnlv40",
+    "url": "https://github.com/martijnlv40/Vasari-purists/",
+    "description": "Changes gamemode to Deathmatch.",
+    "version": "1.0.0",
+    "sinsVersion": "1.17.9.0",
+    "greedVersion": "2.0.0",
+    "dependencies": [],
+    "conflicts": []
+}
