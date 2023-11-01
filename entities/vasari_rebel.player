@@ -35,11 +35,20 @@
     {
         "upgrade_price":
         {
+            "metal": 160,
+            "crystal": 30
+        },
+        "upgrade_duration": 15.0,
+        "experience_given_on_bombed_to_neutral": 150.0
+    },
+    {
+        "upgrade_price":
+        {
             "metal": 200,
             "crystal": 60
         },
-        "upgrade_duration": 30.0,
-        "experience_given_on_bombed_to_neutral": 150.0
+        "upgrade_duration": 17.5,
+        "experience_given_on_bombed_to_neutral": 300.0
     },
     {
         "upgrade_price":
@@ -47,8 +56,8 @@
             "metal": 240,
             "crystal": 90
         },
-        "upgrade_duration": 35.0,
-        "experience_given_on_bombed_to_neutral": 300.0
+        "upgrade_duration": 20.0,
+        "experience_given_on_bombed_to_neutral": 450.0
     },
     {
         "upgrade_price":
@@ -56,8 +65,8 @@
             "metal": 280,
             "crystal": 120
         },
-        "upgrade_duration": 40.0,
-        "experience_given_on_bombed_to_neutral": 450.0
+        "upgrade_duration": 22.5,
+        "experience_given_on_bombed_to_neutral": 600.0
     },
     {
         "upgrade_price":
@@ -65,8 +74,8 @@
             "metal": 320,
             "crystal": 150
         },
-        "upgrade_duration": 45.0,
-        "experience_given_on_bombed_to_neutral": 600.0
+        "upgrade_duration": 25.0,
+        "experience_given_on_bombed_to_neutral": 750.0
     },
     {
         "upgrade_price":
@@ -74,8 +83,8 @@
             "metal": 360,
             "crystal": 180
         },
-        "upgrade_duration": 50.0,
-        "experience_given_on_bombed_to_neutral": 750.0
+        "upgrade_duration": 30.0,
+        "experience_given_on_bombed_to_neutral": 800.0
     },
     {
         "upgrade_price":
@@ -83,8 +92,8 @@
             "metal": 400,
             "crystal": 210
         },
-        "upgrade_duration": 60.0,
-        "experience_given_on_bombed_to_neutral": 800.0
+        "upgrade_duration": 35.0,
+        "experience_given_on_bombed_to_neutral": 950.0
     },
     {
         "upgrade_price":
@@ -92,8 +101,8 @@
             "metal": 440,
             "crystal": 240
         },
-        "upgrade_duration": 70.0,
-        "experience_given_on_bombed_to_neutral": 950.0
+        "upgrade_duration": 40.0,
+        "experience_given_on_bombed_to_neutral": 1100.0
     },
     {
         "upgrade_price":
@@ -101,8 +110,8 @@
             "metal": 480,
             "crystal": 270
         },
-        "upgrade_duration": 80.0,
-        "experience_given_on_bombed_to_neutral": 1100.0
+        "upgrade_duration": 45.0,
+        "experience_given_on_bombed_to_neutral": 1250.0
     },
     {
         "upgrade_price":
@@ -110,8 +119,8 @@
             "metal": 520,
             "crystal": 300
         },
-        "upgrade_duration": 90.0,
-        "experience_given_on_bombed_to_neutral": 1250.0
+        "upgrade_duration": 52.5,
+        "experience_given_on_bombed_to_neutral": 1400.0
     },
     {
         "upgrade_price":
@@ -119,8 +128,8 @@
             "metal": 560,
             "crystal": 330
         },
-        "upgrade_duration": 105.0,
-        "experience_given_on_bombed_to_neutral": 1400.0
+        "upgrade_duration": 60.0,
+        "experience_given_on_bombed_to_neutral": 1550.0
     },
     {
         "upgrade_price":
@@ -128,8 +137,8 @@
             "metal": 600,
             "crystal": 360
         },
-        "upgrade_duration": 120.0,
-        "experience_given_on_bombed_to_neutral": 1550.0
+        "upgrade_duration": 67.5,
+        "experience_given_on_bombed_to_neutral": 1700.0
     },
     {
         "upgrade_price":
@@ -137,8 +146,8 @@
             "metal": 640,
             "crystal": 390
         },
-        "upgrade_duration": 135.0,
-        "experience_given_on_bombed_to_neutral": 1700.0
+        "upgrade_duration": 75.0,
+        "experience_given_on_bombed_to_neutral": 1850.0
     },
     {
         "upgrade_price":
@@ -146,8 +155,8 @@
             "metal": 680,
             "crystal": 420
         },
-        "upgrade_duration": 150.0,
-        "experience_given_on_bombed_to_neutral": 1850.0
+        "upgrade_duration": 85.0,
+        "experience_given_on_bombed_to_neutral": 2000.0
     },
     {
         "upgrade_price":
@@ -155,8 +164,8 @@
             "metal": 720,
             "crystal": 450
         },
-        "upgrade_duration": 170.0,
-        "experience_given_on_bombed_to_neutral": 2000.0
+        "upgrade_duration": 95.0,
+        "experience_given_on_bombed_to_neutral": 2150.0
     },
     {
         "upgrade_price":
@@ -164,8 +173,8 @@
             "metal": 760,
             "crystal": 480
         },
-        "upgrade_duration": 190.0,
-        "experience_given_on_bombed_to_neutral": 2150.0
+        "upgrade_duration": 105.0,
+        "experience_given_on_bombed_to_neutral": 2300.0
     },
     {
         "upgrade_price":
@@ -173,8 +182,8 @@
             "metal": 800,
             "crystal": 510
         },
-        "upgrade_duration": 210.0,
-        "experience_given_on_bombed_to_neutral": 2300.0
+        "upgrade_duration": 115.0,
+        "experience_given_on_bombed_to_neutral": 2450.0
     },
     {
         "upgrade_price":
@@ -182,8 +191,8 @@
             "metal": 840,
             "crystal": 540
         },
-        "upgrade_duration": 230.0,
-        "experience_given_on_bombed_to_neutral": 2450.0
+        "upgrade_duration": 127.5,
+        "experience_given_on_bombed_to_neutral": 2600.0
     },
     {
         "upgrade_price":
@@ -191,8 +200,8 @@
             "metal": 880,
             "crystal": 570
         },
-        "upgrade_duration": 255.0,
-        "experience_given_on_bombed_to_neutral": 2600.0
+        "upgrade_duration": 140.0,
+        "experience_given_on_bombed_to_neutral": 2750.0
     },
     {
         "upgrade_price":
@@ -200,16 +209,7 @@
             "metal": 920,
             "crystal": 600
         },
-        "upgrade_duration": 280.0,
-        "experience_given_on_bombed_to_neutral": 2750.0
-    },
-    {
-        "upgrade_price":
-        {
-            "metal": 960,
-            "crystal": 630
-        },
-        "upgrade_duration": 305.0,
+        "upgrade_duration": 152.5,
         "experience_given_on_bombed_to_neutral": 2900.0
     }],
     "planet_excavation_levels": [
@@ -219,7 +219,7 @@
             "metal": 200.0,
             "crystal": 200.0
         },
-        "upgrade_duration": 60.0
+        "upgrade_duration": 30.0
     },
     {
         "upgrade_price":
@@ -227,7 +227,7 @@
             "metal": 400.0,
             "crystal": 400.0
         },
-        "upgrade_duration": 90.0
+        "upgrade_duration": 45.0
     },
     {
         "upgrade_price":
@@ -235,7 +235,7 @@
             "metal": 600.0,
             "crystal": 600.0
         },
-        "upgrade_duration": 120.0
+        "upgrade_duration": 60.0
     }],
     "starting_units_in_hyperspace":
     {
@@ -728,6 +728,7 @@
             "vasari_unlock_starbase_planetary_shield_array_unit_item",
             "vasari_unlock_starbase_structural_integrity_unit_item",
             "vasari_unlock_strikecraft_armor_unit_item",
+			"vasari_unlock_terran_biosphere",
             "vasari_unlock_titan_mobile_fleet_beacon_unit_item",
             "vasari_unlock_volcanic_biosphere",
             "vasari_unlock_wave_boost_unit_item",
@@ -740,6 +741,8 @@
             "vasari_upgrade_beam_weapons_1",
             "vasari_upgrade_beam_weapons_2",
             "vasari_upgrade_beam_weapons_3",
+			"vasari_upgrade_desert_biosphere_0",
+            "vasari_upgrade_desert_biosphere_1",
             "vasari_upgrade_fabricator_cruiser_debris_reclamation_ability",
             "vasari_upgrade_ferrous_biosphere_0",
             "vasari_upgrade_ferrous_biosphere_1",
@@ -784,6 +787,8 @@
             "vasari_upgrade_shields_with_advent",
             "vasari_upgrade_starbase_engines",
             "vasari_upgrade_structure_build_time",
+			"vasari_upgrade_terran_biosphere_0",
+            "vasari_upgrade_terran_biosphere_1",
             "vasari_upgrade_volcanic_biosphere_0",
             "vasari_upgrade_volcanic_biosphere_1",
             "vasari_upgrade_volcanic_biosphere_2",
@@ -896,6 +901,7 @@
             "vasari_unlock_starbase_planetary_shield_array_unit_item",
             "vasari_unlock_starbase_structural_integrity_unit_item",
             "vasari_unlock_strikecraft_armor_unit_item",
+            "vasari_unlock_terran_biosphere",
             "vasari_unlock_titan_mobile_fleet_beacon_unit_item",
             "vasari_unlock_volcanic_biosphere",
             "vasari_unlock_wave_boost_unit_item",
@@ -908,6 +914,8 @@
             "vasari_upgrade_beam_weapons_1",
             "vasari_upgrade_beam_weapons_2",
             "vasari_upgrade_beam_weapons_3",
+            "vasari_upgrade_desert_biosphere_0",
+            "vasari_upgrade_desert_biosphere_1",
             "vasari_upgrade_fabricator_cruiser_debris_reclamation_ability",
             "vasari_upgrade_ferrous_biosphere_0",
             "vasari_upgrade_ferrous_biosphere_1",
@@ -952,6 +960,8 @@
             "vasari_upgrade_shields_with_advent",
             "vasari_upgrade_starbase_engines",
             "vasari_upgrade_structure_build_time",
+            "vasari_upgrade_terran_biosphere_0",
+            "vasari_upgrade_terran_biosphere_1",
             "vasari_upgrade_volcanic_biosphere_0",
             "vasari_upgrade_volcanic_biosphere_1",
             "vasari_upgrade_volcanic_biosphere_2",
@@ -962,7 +972,7 @@
             "vasari_upgrade_wave_weapons_3"
 		]
     },
-    "missing_ship_component_shop_build_time_scalar": 4.0,
+    "missing_ship_component_shop_build_time_scalar": 19.0,
     "ship_components": [
         "vasari_nano_repair_kit",
         "vasari_nano_swarm",
@@ -1120,11 +1130,17 @@
                 "health_points_restore_rate": 2
             },
             {
+				"prerequisites": [
+                    ["vasari_upgrade_desert_biosphere_0"]
+                ],
                 "max_military_structure_slots": 25,
                 "max_health_points": 4500.0,
                 "health_points_restore_rate": 3
             },
             {
+				"prerequisites": [
+                    ["vasari_upgrade_desert_biosphere_1"]
+                ],
                 "max_military_structure_slots": 35,
                 "max_health_points": 6000.0,
                 "health_points_restore_rate": 4
@@ -1147,12 +1163,18 @@
                 "max_health_points": 400
             },
             {
+				"prerequisites": [
+                    ["vasari_upgrade_desert_biosphere_0"]
+                ],
                 "max_planet_component_slots": 2,
                 "max_civilian_structure_slots": 8,
                 "structure_builder_count": 3,
                 "max_health_points": 600
             },
             {
+				"prerequisites": [
+                    ["vasari_upgrade_desert_biosphere_1"]
+                ],
                 "max_planet_component_slots": 3,
                 "max_civilian_structure_slots": 9,
                 "structure_builder_count": 4,
@@ -1590,6 +1612,9 @@
     {
         "planet_type": "terran",
         "can_ever_be_colonized": true,
+		"colonization_research_prerequisites": [
+            ["vasari_unlock_terran_biosphere"]
+        ],
         "tracks":
         {
             "defense": [
@@ -1604,11 +1629,17 @@
                 "health_points_restore_rate": 2
             },
             {
+				"prerequisites": [
+                    ["vasari_upgrade_terran_biosphere_0"]
+                ],
                 "max_military_structure_slots": 25,
                 "max_health_points": 4500.0,
                 "health_points_restore_rate": 3
             },
             {
+				"prerequisites": [
+                    ["vasari_upgrade_terran_biosphere_1"]
+                ],
                 "max_military_structure_slots": 35,
                 "max_health_points": 6000.0,
                 "health_points_restore_rate": 4
@@ -1637,12 +1668,18 @@
                 "max_health_points": 600
             },
             {
+				"prerequisites": [
+                    ["vasari_upgrade_terran_biosphere_0"]
+                ],
                 "max_planet_component_slots": 3,
                 "max_civilian_structure_slots": 8,
                 "structure_builder_count": 4,
                 "max_health_points": 800
             },
             {
+				"prerequisites": [
+                    ["vasari_upgrade_terran_biosphere_1"]
+                ],
                 "max_planet_component_slots": 4,
                 "max_civilian_structure_slots": 9,
                 "structure_builder_count": 4,
@@ -1663,6 +1700,9 @@
                 "max_health_points": 400
             },
             {
+				"prerequisites": [
+                    ["vasari_upgrade_terran_biosphere_0"]
+                ],
                 "metal_income_rate": 0.96,
                 "crystal_income_rate": 0.72,
                 "max_health_points": 600

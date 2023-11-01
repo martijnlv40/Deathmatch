@@ -44,12 +44,22 @@
     {
         "upgrade_price":
         {
+            "credits": 300,
+            "metal": 60,
+            "crystal": 25
+        },
+        "upgrade_duration": 15.0,
+        "experience_given_on_bombed_to_neutral": 150.0
+    },
+    {
+        "upgrade_price":
+        {
             "credits": 350,
             "metal": 90,
             "crystal": 50
         },
-        "upgrade_duration": 30.0,
-        "experience_given_on_bombed_to_neutral": 150.0
+        "upgrade_duration": 17.5,
+        "experience_given_on_bombed_to_neutral": 300.0
     },
     {
         "upgrade_price":
@@ -58,8 +68,8 @@
             "metal": 120,
             "crystal": 75
         },
-        "upgrade_duration": 35.0,
-        "experience_given_on_bombed_to_neutral": 300.0
+        "upgrade_duration": 20.0,
+        "experience_given_on_bombed_to_neutral": 450.0
     },
     {
         "upgrade_price":
@@ -68,8 +78,8 @@
             "metal": 150,
             "crystal": 100
         },
-        "upgrade_duration": 40.0,
-        "experience_given_on_bombed_to_neutral": 450.0
+        "upgrade_duration": 22.5,
+        "experience_given_on_bombed_to_neutral": 600.0
     },
     {
         "upgrade_price":
@@ -78,8 +88,8 @@
             "metal": 180,
             "crystal": 125
         },
-        "upgrade_duration": 45.0,
-        "experience_given_on_bombed_to_neutral": 600.0
+        "upgrade_duration": 25.0,
+        "experience_given_on_bombed_to_neutral": 750.0
     },
     {
         "upgrade_price":
@@ -88,8 +98,8 @@
             "metal": 210,
             "crystal": 150
         },
-        "upgrade_duration": 50.0,
-        "experience_given_on_bombed_to_neutral": 750.0
+        "upgrade_duration": 30.0,
+        "experience_given_on_bombed_to_neutral": 800.0
     },
     {
         "upgrade_price":
@@ -98,8 +108,8 @@
             "metal": 240,
             "crystal": 175
         },
-        "upgrade_duration": 60.0,
-        "experience_given_on_bombed_to_neutral": 800.0
+        "upgrade_duration": 35.0,
+        "experience_given_on_bombed_to_neutral": 950.0
     },
     {
         "upgrade_price":
@@ -108,8 +118,8 @@
             "metal": 270,
             "crystal": 200
         },
-        "upgrade_duration": 70.0,
-        "experience_given_on_bombed_to_neutral": 950.0
+        "upgrade_duration": 40.0,
+        "experience_given_on_bombed_to_neutral": 1100.0
     },
     {
         "upgrade_price":
@@ -118,8 +128,8 @@
             "metal": 300,
             "crystal": 225
         },
-        "upgrade_duration": 80.0,
-        "experience_given_on_bombed_to_neutral": 1100.0
+        "upgrade_duration": 45.0,
+        "experience_given_on_bombed_to_neutral": 1250.0
     },
     {
         "upgrade_price":
@@ -128,8 +138,8 @@
             "metal": 330,
             "crystal": 250
         },
-        "upgrade_duration": 90.0,
-        "experience_given_on_bombed_to_neutral": 1250.0
+        "upgrade_duration": 52.5,
+        "experience_given_on_bombed_to_neutral": 1400.0
     },
     {
         "upgrade_price":
@@ -138,8 +148,8 @@
             "metal": 360,
             "crystal": 275
         },
-        "upgrade_duration": 105.0,
-        "experience_given_on_bombed_to_neutral": 1400.0
+        "upgrade_duration": 60.0,
+        "experience_given_on_bombed_to_neutral": 1550.0
     },
     {
         "upgrade_price":
@@ -148,8 +158,8 @@
             "metal": 390,
             "crystal": 300
         },
-        "upgrade_duration": 120.0,
-        "experience_given_on_bombed_to_neutral": 1550.0
+        "upgrade_duration": 67.5,
+        "experience_given_on_bombed_to_neutral": 1700.0
     },
     {
         "upgrade_price":
@@ -158,8 +168,8 @@
             "metal": 420,
             "crystal": 325
         },
-        "upgrade_duration": 135.0,
-        "experience_given_on_bombed_to_neutral": 1700.0
+        "upgrade_duration": 75.0,
+        "experience_given_on_bombed_to_neutral": 1850.0
     },
     {
         "upgrade_price":
@@ -168,8 +178,8 @@
             "metal": 450,
             "crystal": 350
         },
-        "upgrade_duration": 150.0,
-        "experience_given_on_bombed_to_neutral": 1850.0
+        "upgrade_duration": 85.0,
+        "experience_given_on_bombed_to_neutral": 2000.0
     },
     {
         "upgrade_price":
@@ -178,8 +188,8 @@
             "metal": 480,
             "crystal": 375
         },
-        "upgrade_duration": 170.0,
-        "experience_given_on_bombed_to_neutral": 2000.0
+        "upgrade_duration": 95.0,
+        "experience_given_on_bombed_to_neutral": 2150.0
     },
     {
         "upgrade_price":
@@ -188,8 +198,8 @@
             "metal": 510,
             "crystal": 400
         },
-        "upgrade_duration": 190.0,
-        "experience_given_on_bombed_to_neutral": 2150.0
+        "upgrade_duration": 105.0,
+        "experience_given_on_bombed_to_neutral": 2300.0
     },
     {
         "upgrade_price":
@@ -198,8 +208,8 @@
             "metal": 540,
             "crystal": 425
         },
-        "upgrade_duration": 210.0,
-        "experience_given_on_bombed_to_neutral": 2300.0
+        "upgrade_duration": 115.0,
+        "experience_given_on_bombed_to_neutral": 2450.0
     },
     {
         "upgrade_price":
@@ -208,8 +218,8 @@
             "metal": 570,
             "crystal": 450
         },
-        "upgrade_duration": 230.0,
-        "experience_given_on_bombed_to_neutral": 2450.0
+        "upgrade_duration": 127.5,
+        "experience_given_on_bombed_to_neutral": 2600.0
     },
     {
         "upgrade_price":
@@ -218,8 +228,8 @@
             "metal": 600,
             "crystal": 475
         },
-        "upgrade_duration": 255.0,
-        "experience_given_on_bombed_to_neutral": 2600.0
+        "upgrade_duration": 140.0,
+        "experience_given_on_bombed_to_neutral": 2750.0
     },
     {
         "upgrade_price":
@@ -228,17 +238,7 @@
             "metal": 630,
             "crystal": 500
         },
-        "upgrade_duration": 280.0,
-        "experience_given_on_bombed_to_neutral": 2750.0
-    },
-    {
-        "upgrade_price":
-        {
-            "credits": 1300,
-            "metal": 660,
-            "crystal": 525
-        },
-        "upgrade_duration": 305.0,
+        "upgrade_duration": 152.5,
         "experience_given_on_bombed_to_neutral": 2900.0
     }],
     "planet_excavation_levels": [
@@ -249,7 +249,7 @@
             "metal": 100.0,
             "crystal": 100.0
         },
-        "upgrade_duration": 60.0
+        "upgrade_duration": 30.0
     },
     {
         "upgrade_price":
@@ -258,7 +258,7 @@
             "metal": 200.0,
             "crystal": 200.0
         },
-        "upgrade_duration": 90.0
+        "upgrade_duration": 45.0
     },
     {
         "upgrade_price":
@@ -267,7 +267,7 @@
             "metal": 300.0,
             "crystal": 300.0
         },
-        "upgrade_duration": 120.0
+        "upgrade_duration": 60.0
     }],
     "starting_free_unit_build_kinds": [
         "capital_ship"
@@ -289,6 +289,7 @@
             "unit": "trader_retrofit_bay_structure"
         }]
     }],
+	"starting_are_all_npcs_detected": true,
     "fleet": "trader_fleet",
     "unit_build_groups": [
     {
@@ -494,7 +495,7 @@
                     "button_background": "trader_research_tier_button_background_2_civil"
                 },
                 {
-                    "acquire_time": 180.0,
+                    "acquire_time": 1.0,
                     "required_research_points": 0,
                     "price":
                     {
@@ -1056,7 +1057,7 @@
             "trader_war_measures_act"
 		]
     },
-    "missing_ship_component_shop_build_time_scalar": 4.0,
+    "missing_ship_component_shop_build_time_scalar": 19.0,
     "ship_components": [
         "trader_missile_armor",
         "trader_derelict_specialist",
