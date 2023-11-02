@@ -743,7 +743,7 @@
             "trader_hull_damage_reduction_1",
             "trader_hull_damage_reduction_2",
             "trader_ice_planet_credit_rate",
-            "trader_improve_culture_propigation",
+            "trader_improve_culture_propagation",
             "trader_improve_gauss_defense_cooldown",
             "trader_improve_gauss_defense_range",
             "trader_improve_oceanic_domes_unit_item",
@@ -921,7 +921,7 @@
             "trader_hull_damage_reduction_1",
             "trader_hull_damage_reduction_2",
             "trader_ice_planet_credit_rate",
-            "trader_improve_culture_propigation",
+            "trader_improve_culture_propagation",
             "trader_improve_gauss_defense_cooldown",
             "trader_improve_gauss_defense_range",
             "trader_improve_oceanic_domes_unit_item",
@@ -2226,15 +2226,15 @@
         {
             "decay_rate": 0.02
         }],
-        "propigation_rates": [
+        "propagation_rates": [
         {
-            "propigation_rate_scalar": -2.0
+            "propagation_rate_scalar": -2.0
         },
         {
             "prerequisites": [
-                ["trader_improve_culture_propigation"]
+                ["trader_improve_culture_propagation"]
             ],
-            "propigation_rate_scalar": -1.8
+            "propagation_rate_scalar": -1.8
         }],
         "friendly_planet_modifiers": [
         {

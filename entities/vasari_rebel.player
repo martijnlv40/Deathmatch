@@ -696,6 +696,7 @@
             "vasari_unlock_gas_harvester_unit_item",
             "vasari_unlock_hangar_unit_item",
             "vasari_unlock_heavy_cruiser",
+			"vasari_unlock_heavy_turret_servos",
             "vasari_unlock_ice_biosphere",
             "vasari_unlock_long_range_frigate",
             "vasari_unlock_metal_refinery_unit_item",
@@ -1926,9 +1927,9 @@
         {
             "decay_rate": 0.02
         }],
-        "propigation_rates": [
+        "propagation_rates": [
         {
-            "propigation_rate_scalar": -2.0
+            "propagation_rate_scalar": -2.0
         }],
         "friendly_unit_modifiers": [
         {
@@ -2098,8 +2099,8 @@
                     "weapon_modifiers": [
                     {
                         "value_behavior": "scalar",
-                        "modifier_type": "damage",
-                        "value": 0.02
+                        "modifier_type": "cooldown_duration",
+                        "value": -0.03
                     }]
                 },
                 "utility":
@@ -2131,8 +2132,8 @@
                     "weapon_modifiers": [
                     {
                         "value_behavior": "scalar",
-                        "modifier_type": "damage",
-                        "value": 0.04
+                        "modifier_type": "cooldown_duration",
+                        "value": -0.06
                     }]
                 },
                 "utility":
@@ -2161,7 +2162,7 @@
                     {
                         "modifier_type": "hyperspace_speed",
                         "value_behavior": "scalar",
-                        "value": 0.15
+                        "value": 0.1
                     }]
                 },
                 "combat":
@@ -2169,13 +2170,13 @@
                     "weapon_modifiers": [
                     {
                         "value_behavior": "scalar",
-                        "modifier_type": "damage",
-                        "value": 0.06
+                        "modifier_type": "cooldown_duration",
+                        "value": -0.08
                     },
                     {
                         "value_behavior": "scalar",
-                        "modifier_type": "cooldown_duration",
-                        "value": -0.02
+                        "modifier_type": "damage",
+                        "value": 0.03
                     }]
                 },
                 "utility":
@@ -2209,7 +2210,7 @@
                     {
                         "modifier_type": "hyperspace_speed",
                         "value_behavior": "scalar",
-                        "value": 0.25
+                        "value": 0.2
                     }]
                 },
                 "combat":
@@ -2217,13 +2218,13 @@
                     "weapon_modifiers": [
                     {
                         "value_behavior": "scalar",
-                        "modifier_type": "damage",
-                        "value": 0.08
+                        "modifier_type": "cooldown_duration",
+                        "value": -0.1
                     },
                     {
                         "value_behavior": "scalar",
-                        "modifier_type": "cooldown_duration",
-                        "value": -0.04
+                        "modifier_type": "damage",
+                        "value": 0.06
                     },
                     {
                         "value_behavior": "additive",
@@ -2272,13 +2273,13 @@
                     "weapon_modifiers": [
                     {
                         "value_behavior": "scalar",
-                        "modifier_type": "damage",
-                        "value": 0.1
+                        "modifier_type": "cooldown_duration",
+                        "value": -0.12
                     },
                     {
                         "value_behavior": "scalar",
-                        "modifier_type": "cooldown_duration",
-                        "value": -0.06
+                        "modifier_type": "damage",
+                        "value": 0.09
                     },
                     {
                         "value_behavior": "additive",
