@@ -3,7 +3,7 @@
     "author": "martijnlv40",
     "url": "https://github.com/martijnlv40/Deathmatch",
     "description": "Changes gamemode to Deathmatch.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "sinsVersion": "1.17.10.0",
     "greedVersion": "2.0.0",
     "dependencies": [],

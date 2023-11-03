@@ -974,6 +974,8 @@
             "trader_planet_pillaging",
             "trader_planet_track_upgrade_rate",
             "trader_quick_phase_jump",
+			"trader_rebel_pirate_cease_fire",
+            "trader_rebel_pirate_share_vision",
             "trader_retrofit_bay_repair_rate_0",
             "trader_savage_thrill",
             "trader_scout_corvette_hyperspace_charge_time",

@@ -15,5 +15,4 @@
 
 ## Known issues
 
-- For the TEC Rebels, two pirate techs (share vision on raids and ceasefire) are not researched at start (this crashes the game currently).
 - Research tiers need to be researched manually (but are almost free and almost instantly research).
